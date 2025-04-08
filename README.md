@@ -1,4 +1,4 @@
-## CLUB FINDER APP ##
+# CLUB FINDER APP ##
 
-# Sudah menerapkan challenges dari Dicoding
-# Menggunakan plugin favicons dan npm script
+<ul>Sudah menerapkan challenges dari Dicoding </ul>
+Menggunakan plugin favicons dan npm script
