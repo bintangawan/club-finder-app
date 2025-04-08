@@ -1,2 +1,4 @@
-# Belajar Fundamental Front-End Developer
-Silakan lihat branch untuk melihat berkas atau source code yang diinginkan.
+## CLUB FINDER APP ##
+
+# Sudah menerapkan challenges dari Dicoding
+# Menggunakan plugin favicons dan npm script
